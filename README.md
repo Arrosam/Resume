@@ -17,12 +17,11 @@ Shy when first get in touch, but suddenly become a bad joke machine when familia
 
 Skills
 -
-
 ---
 <**Languages and tech stacks/**>: <br/>
 <span style="color: orange">Handy with Java</span>: Learned from University.
 I love it because it is type-safe, has enough data structure to use, and strictly passes by value.
-Haven't used it for developing anything except university assignments.
+Have not used it for developing anything except university assignments.
 State it here just showing my understanding of Object-Oriented programming;<br/>
 <span style="color: Orange">Familiar</span> with <br/>
 <span style="color: DodgerBlue">SQL</span>: Learned from university, know fundamental queries and transaction schemes.
@@ -31,7 +30,7 @@ Has used it for develop a mini-game;<br/>
 Used for my honour dissertation (3D point cloud machine learning);<br/>
 <span style="color: LightSkyBlue">*C#*</span>: Self learned for develop games in Unity;<br/>
 <span style="color: CornflowerBlue">React js, JavaScript and HTML</span>: Learned and used during my internship.
-Used it to develop a Jira plugin (Can't tell more about the product since it was noted on my contract);<br/>
+Used it to develop a Jira plugin (Can not tell more about the product since it was noted on my contract);<br/>
 
 <**Programme Design/**>: <br/>
 Familiar with software design principles for develop maintainable software, and software design patterns. <br/>
@@ -39,8 +38,14 @@ Ability to use Git.
 
 Experiences
 -
-
 ---
+<style>
+table {
+    width: 100%;
+    table-layout: fixed;
+    }
+</style>
+
 | 2022.07 | Kiwi Jam | Game Development Competition |
 | :-----: | :------: | :--------------------------: |
 > Developed the game "Stab in the dart" in a group. 
@@ -53,7 +58,7 @@ Experiences
 > Working in the DevOps team, took responsibility for developing the whole front end of the Jira plugin. 
 > Learned and used React js during work independently. Develop software in the agile environment.
 
-| 2021.09 |  Data order preservation middleware | University Assignment |
+| 2021.09 |  Data Order Preservation Middleware | University Assignment |
 | :-----: | :---------------------------------: | :-------------------: |
 > Individually developed middleware to ensure that 
 > the message will be received in the same order as sent in a multiple-client environment.
