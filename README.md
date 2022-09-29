@@ -89,5 +89,5 @@ table {
 Education
 -
 ---
-> 2018.03 - 2022.11<br/>
+> 2019.03 - 2022.11<br/>
 > **the University of Auckland : Bachelor of Advanced Science(Honour) : Computer Science**
