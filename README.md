@@ -46,6 +46,12 @@ table {
     }
 </style>
 
+| 2023.02 -- Now | Serato | Junior Test Analyst |
+| :------------: | :----: | :-----------------: |
+> Working in DevOps team
+> Test volurnability of software
+> Maintain test automation
+
 | 2022.07 | Kiwi Jam | Game Development Competition |
 | :-----: | :------: | :--------------------------: |
 > Developed the game "Stab in the dart" in a group. 
@@ -81,10 +87,6 @@ table {
 | :-----: | :---------: | :----------------------: |
 > Based on the requirement of Waka Kotahi, 
 > fetched and analysed data with other students and codified a report on the data.
-
-| 2020.07 | Kiwi Jam | Game Development Competition |
-| :-----: | :------: | :--------------------------: |
-> Individually developed a 2D game in Unity and replanted the game to the Android platform afterwards.
 
 Education
 -
