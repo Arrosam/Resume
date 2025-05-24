@@ -1,95 +1,52 @@
-> # Wendi Lin
-> PhoneNumber: 021-2940917; <br/>
-> MailingAddress: 27 whitaker place,
-> Grafton Auckland 1010; <br/>
-> Email: Samuelin0xcc@gmail.com; <br/>
-> Intended Position: Software Engineer; <br/>
-> <span style="color: CadetBlue">*Referee available on request*</span>
+# Wendi Lin
 
-About me
--
+**Test Engineer | Test Analyst**
+
+📞 021 294 0917 | 📧 samuelin0xcc@gmail.com | 📍 Auckland, New Zealand  
+*Referees available on request*
+
 ---
-I am always filled with funky ideas. 
-Keep questioning and asking for improvement. 
-Obsessed with code maintainability but poor with giving a good variable name. 
-I love the refactoring process, but it feels painful when designing the new structure. 
-Shy when first get in touch, but suddenly become a bad joke machine when familiarised.
 
-Skills
--
----
-<**Languages and tech stacks/**>: <br/>
-<span style="color: orange">Handy with Java</span>: Learned from University.
-I love it because it is type-safe, has enough data structure to use, and strictly passes by value.
-Have not used it for developing anything except university assignments.
-State it here just showing my understanding of Object-Oriented programming;<br/>
-<span style="color: Orange">Familiar</span> with <br/>
-<span style="color: DodgerBlue">SQL</span>: Learned from university, know fundamental queries and transaction schemes.
-Has used it for develop a mini-game;<br/>
-<span style="color: CadetBlue">Python</span>: From University Courses. 
-Used for my honour dissertation (3D point cloud machine learning);<br/>
-<span style="color: LightSkyBlue">*C#*</span>: Self learned for develop games in Unity;<br/>
-<span style="color: CornflowerBlue">React js, JavaScript and HTML</span>: Learned and used during my internship.
-Used it to develop a Jira plugin (Can not tell more about the product since it was noted on my contract);<br/>
+## Professional Summary
 
-<**Programme Design/**>: <br/>
-Familiar with software design principles for develop maintainable software, and software design patterns. <br/>
-Ability to use Git.
+Test Analyst with 2+ years of experience in manual and automated testing of web applications, backend services, and infrastructure. Proficient in creating and executing comprehensive test plans, maintaining clear documentation, and performing smoke and regression tests. Skilled in **Selenium** IDE, Selenium WebDriver, and **Behave** for automation. Strong programming skills in Python and Java, with DevOps exposure in **CI/CD**, monitoring, and **AWS** cloud infrastructure. Experienced in cross-team regression testing, defect reporting, and ensuring high-quality releases.
 
-Experiences
--
----
-<style>
-table {
-    width: 100%;
-    table-layout: fixed;
-    }
-</style>
+## Core Competencies
+- **Automation:** Python (Behave), Selenium WebDriver, Postman, Selenium IDE
+- **DevOps & Observability:** Git, Jenkins/GitHub Actions, Docker, AWS (EC2, RDS, CloudWatch), Datadog
+- **Backend & Databases:** REST/JSON, MySQL, Java, C#
+- **Front‑End:** React, JavaScript, HTML/CSS
+- **Methodologies:** Agile Scrum, BDD, TDD, Risk‑based Testing
 
-| 2023.02 -- Now | Serato | Junior Test Analyst |
-| :------------: | :----: | :-----------------: |
-> Working in DevOps team
-> Test volurnability of software
-> Maintain test automation
+## Professional Experience
 
-| 2022.07 | Kiwi Jam | Game Development Competition |
-| :-----: | :------: | :--------------------------: |
-> Developed the game "Stab in the dart" in a group. 
-> Developed the "Sound Interaction Interface" and part of level design. 
-> We got the "Most Experiment-ty" first place prize. 
-> The game is designed for the blind, only using sound and touch (by dual sense) as feedback. <br/>
+### Serato — *Junior Test Analyst*  
+*Auckland, NZ | Feb 2023 – May 2025*
+- Led end-to-end testing of the company website and backend API services, ensuring high-quality releases and zero post-release incidents. 
+- Developed a risk-based regression plan post-PHP upgrade, coordinated joint testing with QA engineers, and executed manual & automated tests. 
+- Expanded the Selenium + Behave automation suite, wrote Selenium scripts, and used Postman collections for REST endpoints, enhancing test coverage and efficiency. 
 
-| 2021.11 - 2022.1 | Suzhou Yunti Technology | Internship: Front-end Engineer |
-| :--------------: | :---------------------: | :----------------------------: |
-> Working in the DevOps team, took responsibility for developing the whole front end of the Jira plugin. 
-> Learned and used React js during work independently. Develop software in the agile environment.
+### Suzhou Yunti Technology — *Front‑End Engineer Intern*  
+*Suzhou, CN | Nov 2021 – Jan 2022*  
+- Delivered a single-page application (SPA) with React in eight weeks, improving efficiency and user experience. 
+- Implemented responsive UI, enhancing accessibility and usability across devices. 
+- Collaborated with the DevOps team through Agile sprints, ensuring seamless integration and high-quality releases.
+## Education
+**Bachelor of Advanced Science (Hons) in Computer Science**  
+*University of Auckland | Mar 2019 – Nov 2022*  
+Relevant courses: Human‑Computer Interaction, Computer Graphics, Software Engineering.
 
-| 2021.09 |  Data Order Preservation Middleware | University Assignment |
-| :-----: | :---------------------------------: | :-------------------: |
-> Individually developed middleware to ensure that 
-> the message will be received in the same order as sent in a multiple-client environment.
+## Projects
+- **Unity Indie Game (C#):** 48‑hour GameJam project awarded *1st plance Experiment-ey*; designed gameplay mechanics and implemented all scripts and shaders.  
+- **University Graduation Dissertation (3D Point Cloud Analysis)** Reviewed and assessed multiple 3D point cloud segregation algorithms, and evaluated their applicability in submarine environments for mussel protection.
 
-| 2021.08 | Data Cache | University Assignment |
-| :-----: | :--------: | :-------------------: |
-> Individually developed a cache server run in TCP protocol. Fracture and cache data by the regional hash value. 
-> Allow users to fetch data from the cache server directly when the data requested is updated.
 
-| 2021.08 | Spatial Skill Training Game | University Assignment |
-| :-----: | :--------: | :-------------------: |
-> Working in the team, took responsibility for developing the collider box setting, record saving function, and UI.
-> Collaborated with teammates to develop the gamification mechanism, develop the product collaboratively.
+## Technical Skills
+| Languages | Frameworks & Libraries | DevOps & Tools | Databases |
+|-----------|-----------------------|----------------|-----------|
+| Python, Java, JavaScript, C# | Selenium, Behave, Postman, React, | Git, GitHub Actions, Docker, AWS (EC2, RDS, CloudWatch), Datadog | MySQL |
 
-| 2021.07-2022.06 | A+ Education | Part-time Job: Tutor |
-| :-------------: | :----------: | :------------------: |
-> Responsible for tutoring computer graphics fundamentals (rendering). Giving lectures weekly while studying.
-
-| 2021.07 | Waka Kotahi | Micro-internship Project |
-| :-----: | :---------: | :----------------------: |
-> Based on the requirement of Waka Kotahi, 
-> fetched and analysed data with other students and codified a report on the data.
-
-Education
--
----
-> 2019.03 - 2022.11<br/>
-> **the University of Auckland : Bachelor of Advanced Science(Honour) : Computer Science**
+## Additional Information
+- **Work Eligibility:** NZ Open Work Visa, Already applied Skilled Migrant Category Resident Visa; restricted NZ driver’s licence. 
+- **Languages:** English (fluent), Mandarin (native).  
+- **Interests:** Game development, Reading, Board games
